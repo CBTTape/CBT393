@@ -1,0 +1,6 @@
+2023-08-06 03:50:11.965739 - Initialized conversion of CBT393
+2023-08-06 03:50:11.994906 - Received CBT.V505.FILE393.PDS from FILE393.XMI 
+2023-08-06 03:50:11.997082 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE393.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:50:11.998181 - Found $$$DOC1.txt (text/plain) in CBT.V505.FILE393.PDS, moved to PDS/$$$DOC1
+2023-08-06 03:50:11.999219 - Found @FILE393.txt (text/plain) in CBT.V505.FILE393.PDS, moved to PDS/@FILE393
+2023-08-06 03:50:12.000191 - Found RACFGRPS.rexx (text/plain) in CBT.V505.FILE393.PDS, moved to PDS/RACFGRPS
