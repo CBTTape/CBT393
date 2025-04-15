@@ -1,5 +1,5 @@
-2025-04-15 02:02:52.218847 - Received CBT.V508.FILE393.PDS from FILE393.XMI 
-2025-04-15 02:02:52.220088 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/$$$#DATE
-2025-04-15 02:02:52.220430 - Found $$$DOC1.txt (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/$$$DOC1
-2025-04-15 02:02:52.220612 - Found @FILE393.txt (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/@FILE393
-2025-04-15 02:02:52.220771 - Found RACFGRPS.rexx (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/RACFGRPS
+2025-04-15 20:52:48.926052 - Received CBT.V508.FILE393.PDS from FILE393.XMI 
+2025-04-15 20:52:48.927230 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:52:48.927557 - Found $$$DOC1.txt (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/$$$DOC1
+2025-04-15 20:52:48.927609 - Found @FILE393.txt (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/@FILE393
+2025-04-15 20:52:48.927810 - Found RACFGRPS.rexx (text/plain) in CBT.V508.FILE393.PDS, moved to PDS/RACFGRPS
